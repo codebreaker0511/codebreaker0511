@@ -1,38 +1,41 @@
-# codebreaker0511
+# Hey, I'm Prashant 👋
 
-This repository is the GitHub profile repository for the user `codebreaker0511`.
+🎓 B.Tech @ IIT Kanpur | Biosciences & Bioengineering  
+💻 Developer | Aspiring Entrepreneur | AI Enthusiast
 
-It currently contains personal projects and code samples. Use this README as a place to introduce the owner, list notable projects, and provide instructions for building or running code when applicable.
+I enjoy building things, solving problems, and learning by doing. Currently focused on backend development, AI-powered applications, and turning ideas into real products.
 
-## Repository overview
+### 🚀 What I'm Working On
+- 🤖 Building an **AI Interviewer** — an AI-powered interview practice platform.
+- ⚙️ Deepening my understanding of backend engineering, databases, APIs, and system design.
+- 🧠 Exploring AI/ML and integrating AI into practical applications.
+- 💡 Interested in startups, product development, and entrepreneurship.
 
-- Owner: codebreaker0511
-- Repo: codebreaker0511
+### 🛠️ Tech Stack
 
-## Languages
+**Languages:** JavaScript, Python, C++  
+**Frontend:** React, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, PostgreSQL  
+**Tools:** Git, GitHub, Docker
 
-This repository contains code in multiple languages. Add a language breakdown or badges here when known.
+### 📈 Competitive Programming
+- Practicing Data Structures and Algorithms.
+- Solving problems on Codeforces, CSES, and other platforms.
+- Focused on improving problem-solving skills through consistent practice.
 
-## Getting started
+### 🎯 My Philosophy
 
-1. Clone the repository:
+> Learn continuously. Build relentlessly. Solve real problems.
 
-   git clone https://github.com/codebreaker0511/codebreaker0511.git
+I believe technology is a tool for solving meaningful problems, and the best way to learn is to build, experiment, and ship.
 
-2. Inspect the project folders and follow individual project README files for build/run instructions.
+### 🤝 Let's Connect
 
-## How to contribute
-
-If you'd like to contribute:
-
-- Open an issue describing the change or feature you want to add.
-- Create a branch for your changes.
-- Open a pull request with a clear description and tests/examples if applicable.
-
-## Contact
-
-For questions or collaboration, open an issue or contact `@codebreaker0511` on GitHub.
+- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 🌐 Portfolio: [Explore my work](YOUR_PORTFOLIO_URL)
+- 📧 Email: YOUR_EMAIL
 
 ---
 
-*This README was added automatically.*
+⭐ *Always curious. Always building.*
