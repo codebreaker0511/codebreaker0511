@@ -1,44 +1,61 @@
-# 👋 Hey, I'm Prashant
+ <div align="center">
+
+# 👋 HEY, I'M PRASHANT
 
 ### 🎓 B.Tech @ IIT Kanpur | Biosciences & Bioengineering
-### 💻 Developer · Aspiring Entrepreneur · AI Enthusiast
 
-I enjoy building things, solving problems, and learning by doing. Currently focused on **backend development, AI-powered applications, and turning ideas into real products.**
+<h2>💻 DEVELOPER · ASPIRING ENTREPRENEUR · AI ENTHUSIAST</h2>
+
+<p>
+I enjoy building things, solving problems, and turning ideas into real products.
+</p>
+
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+<h1>🚀 WHAT I'M WORKING ON</h1>
 
-- 🤖 Building an **AI Interviewer** — an AI-powered interview practice platform.
-- ⚙️ Deepening my understanding of **backend engineering, databases, APIs, and system design.**
-- 🧠 Exploring **AI/ML** and integrating AI into practical applications.
-- 💡 Interested in **startups, product development, and entrepreneurship.**
+- 🤖 **AI Interviewer** — an AI-powered interview practice platform.
+- ⚙️ **Backend Engineering** — databases, APIs, and system design.
+- 🧠 **AI/ML** — integrating artificial intelligence into practical applications.
+- 💡 **Entrepreneurship** — building products that solve real problems.
 
-## 🛠️ Tech Stack
+<h1>🛠️ TECH STACK</h1>
 
-- **Languages:** JavaScript, Python, C++
-- **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, Docker
+<h2>Languages</h2>
 
-## 📈 Competitive Programming
+JavaScript · Python · C++
 
-- Practicing **Data Structures and Algorithms**.
+<h2>Development</h2>
+
+React · Node.js · Express.js · REST APIs
+
+<h2>Databases & Tools</h2>
+
+MongoDB · PostgreSQL · Git · GitHub · Docker
+
+<h1>📈 COMPETITIVE PROGRAMMING</h1>
+
+- Practicing Data Structures and Algorithms.
 - Solving problems on Codeforces, CSES, and other platforms.
-- Focused on improving problem-solving skills through consistent practice.
+- Continuously improving problem-solving skills.
 
-## 🎯 My Philosophy
+<h1>🎯 MY PHILOSOPHY</h1>
 
-> ### Learn continuously. Build relentlessly. Solve real problems.
+<div align="center">
+<h2>Learn continuously.</h2>
+<h2>Build relentlessly.</h2>
+<h2>Solve real problems.</h2>
+</div>
 
-I believe technology is a tool for solving meaningful problems. The best way to learn is to **build, experiment, and ship.**
-
-## 🤝 Let's Connect
+<h1>🤝 LET'S CONNECT</h1>
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prashant-kumar-2bb388313)
 - 📧 **Email:** [prashant620206@gmail.com](mailto:prashant620206@gmail.com)
 
 ---
 
-### ⭐ Always curious. Always building.
+<div align="center">
+<h2>⭐ ALWAYS CURIOUS. ALWAYS BUILDING.</h2>
+</div>
