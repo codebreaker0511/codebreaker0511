@@ -1,61 +1,35 @@
- <div align="center">
+## 🚀 WHAT I'M WORKING ON
 
-# 👋 HEY, I'M PRASHANT
+<h2>🤖 AI Interviewer</h2>
 
-### 🎓 B.Tech @ IIT Kanpur | Biosciences & Bioengineering
+An AI-powered interview practice platform.
 
-<h2>💻 DEVELOPER · ASPIRING ENTREPRENEUR · AI ENTHUSIAST</h2>
+<h2>⚙️ Backend Engineering</h2>
 
-<p>
-I enjoy building things, solving problems, and turning ideas into real products.
-</p>
+Deepening my understanding of databases, APIs, and system design.
 
-</div>
+<h2>🧠 AI/ML</h2>
 
----
+Integrating artificial intelligence into practical applications.
 
-<h1>🚀 WHAT I'M WORKING ON</h1>
+<h2>💡 Entrepreneurship</h2>
 
-- 🤖 **AI Interviewer** — an AI-powered interview practice platform.
-- ⚙️ **Backend Engineering** — databases, APIs, and system design.
-- 🧠 **AI/ML** — integrating artificial intelligence into practical applications.
-- 💡 **Entrepreneurship** — building products that solve real problems.
+Building products that solve real problems.
 
-<h1>🛠️ TECH STACK</h1>
+## 🛠️ TECH STACK
 
-<h2>Languages</h2>
+<h2>💻 Languages</h2>
 
 JavaScript · Python · C++
 
-<h2>Development</h2>
+<h2>🎨 Frontend</h2>
 
-React · Node.js · Express.js · REST APIs
+React · HTML · CSS · Tailwind CSS
 
-<h2>Databases & Tools</h2>
+<h2>⚙️ Backend</h2>
+
+Node.js · Express.js · REST APIs
+
+<h2>🗄️ Databases & Tools</h2>
 
 MongoDB · PostgreSQL · Git · GitHub · Docker
-
-<h1>📈 COMPETITIVE PROGRAMMING</h1>
-
-- Practicing Data Structures and Algorithms.
-- Solving problems on Codeforces, CSES, and other platforms.
-- Continuously improving problem-solving skills.
-
-<h1>🎯 MY PHILOSOPHY</h1>
-
-<div align="center">
-<h2>Learn continuously.</h2>
-<h2>Build relentlessly.</h2>
-<h2>Solve real problems.</h2>
-</div>
-
-<h1>🤝 LET'S CONNECT</h1>
-
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prashant-kumar-2bb388313)
-- 📧 **Email:** [prashant620206@gmail.com](mailto:prashant620206@gmail.com)
-
----
-
-<div align="center">
-<h2>⭐ ALWAYS CURIOUS. ALWAYS BUILDING.</h2>
-</div>
