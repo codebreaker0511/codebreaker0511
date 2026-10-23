@@ -13,14 +13,14 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- B.Tech student at **IIT Kanpur**, Biosciences & Bioengineering
-- I enjoy turning ideas into real products and solving real problems
-- Always learning: backend systems, AI/ML, and product building
-- Aspiring entrepreneur with a builder's mindset
+<h2>- B.Tech student at IIT Kanpur, Biosciences & Bioengineering<br>
+- I enjoy turning ideas into real products and solving real problems<br>
+- Always learning: backend systems, AI/ML, and product building<br>
+- Aspiring entrepreneur with a builder's mindset</h2>
 
-## 🔭 What I'm Working On
+# 🔭 What I'm Working On
 
 | | Project / Focus | Description |
 |---|---|---|
@@ -29,7 +29,7 @@
 | 🧠 | **AI / ML** | Integrating AI into practical applications |
 | 💡 | **Entrepreneurship** | Building products that solve real problems |
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Languages**
 
