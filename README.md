@@ -21,13 +21,9 @@
 - Aspiring entrepreneur with a builder's mindset</h2>
 
 # 🔭 What I'm Working On
-
-| | Project / Focus | Description |
-|---|---|---|
-| 🤖 | **AI Interviewer** | An AI-powered interview practice platform |
-| ⚙️ | **Backend Engineering** | Databases, REST APIs, and system design |
-| 🧠 | **AI / ML** | Integrating AI into practical applications |
-| 💡 | **Entrepreneurship** | Building products that solve real problems |
+<h3>
+  Currently, I am working on an AI Interviewer which helps candidates prepare for interview with AI Assisting them.
+</h3>
 
 # 🛠️ Tech Stack
 
